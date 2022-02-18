@@ -16,8 +16,8 @@ export const projects = [
       link: "https://reedbarger.com",
     }
   ];
-  export const projects = [
+  export const skills = [
     {
-      
+      skills: "iasda asiibo aewoaskdfljkljsddlkasdjf, l;asdjkf;asdifjori, oasidjfo aosidfj"
     }
   ]
