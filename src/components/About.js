@@ -34,4 +34,4 @@ function About() {
       </div>
     </section>
 }
-export default App;
+export default About;
