@@ -1,10 +1,7 @@
 import React from "react";
+import { skills } from "../data";
 
-function App() {
-    import React from "react";
-    import { skills } from "../data";
-    
-    export default function Skills() {
+function Skills() {
       return (
         <section id="skills">
           <div className="container px-5 py-10 mx-auto">
@@ -35,5 +32,5 @@ function App() {
         </section>
       );
     }
-}
-export default App;
+
+export default Skills;

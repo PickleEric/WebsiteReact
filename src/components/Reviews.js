@@ -1,11 +1,8 @@
 import React from "react";
-
-function App() {
-    import React from "react";
     import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
     import { reviews } from "../data";
-    
-    export default function Testimonials() {
+
+function Reviews() {
       return (
         <section id="reviews">
           <div className="container px-5 py-10 mx-auto text-center">
@@ -42,5 +39,5 @@ function App() {
         </section>
       );
     }
-}
-export default App;
+
+export default Reviews;
