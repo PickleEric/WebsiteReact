@@ -9,10 +9,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Reviews from "./components/Reviews"
 
-import { Container, Row, Col} from 'react-bootstrap';
-
-import info from './data'
-
 function App() {
   return (
     <main className="text-gold-400 bg-gray-900 body-font">
