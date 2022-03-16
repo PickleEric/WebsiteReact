@@ -109,6 +109,6 @@ function handleSubmit(e) {
         </form>
       </div>
     </section>
-    )
+    );
 }
 export default Contact;
